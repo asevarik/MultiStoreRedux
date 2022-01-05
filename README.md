@@ -20,5 +20,7 @@ step 3:install expo client in android or ios
 some QR code is generated scan from expo app and run the app
 
 ## Prequisites
-node modules must be installed and both mobile and computer must be on the same network
+1.Node modules must be installed to lastest version 
+
+2.Both mobile and computer must be on the same network
 
